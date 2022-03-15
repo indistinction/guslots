@@ -16,3 +16,5 @@ This was a solo project; I was the only dev and designer.
 ## Status
 
 Active at https://guslots.net/
+
+(This page may be slow to load if there is congestion on the IMX network.)
